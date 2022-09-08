@@ -132,6 +132,11 @@ h1 {
 a {
   font-family: 'EB Garamond', serif; }
 
+p {
+  color: black;
+  font-size: medium;
+  background: radial-gradient(circle, rgba(65, 65, 247, 0.836) 0%, #10aaec 100%); }
+
 .body-perros {
   background-image: url(https://cdn.pixabay.com/photo/2016/04/05/13/55/design-1309492_960_720.png);
   background-repeat: no-repeat;
