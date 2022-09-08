@@ -1,0 +1,15 @@
+Keywords:
+-index: Petshop, perros, gatos, alimento, mascotas, tienda.
+-perros: perros, alimento, canino, mascota, pelos, pulgas.
+-gatos: gatos, pelos, compañia, garras, felino, mascota.
+-peceras: peceras, pez, mascota, agua, recipiente, acuario.
+-contactenos: contacto, ayuda, atención, cliente, comunicación, auxilio.
+
+Descriptions:
+-index: Petshop es la nueva tienda online de productos para el cuidado de tu mascota.
+-perros: Navegá por nuestro catálogo de alimentos para perros.
+-gatos: Descubrí los mejores productos para tu gato.
+-peceras: Presentamos nuestra variedad de peceras y contenedores para peces mascota.
+-contactenos: Completá el formulario para recibir ayuda.
+
+Agregué en todas las páginas al lado del título la sección para que el cliente sepa donde está parado.
